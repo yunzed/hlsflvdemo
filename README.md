@@ -3,8 +3,11 @@ hlsflvdemo
 
 Add HLS(Http Live Stream) support to FlashPlayer.
 
-To play the demo, add hlsflv.swf to trusted file (Control Panel=>FlashPlayer=>Advanced=>Trusted Location Settings), and then open hlsflv in chrome.
-Test on chrome only for now.
+To play the demo, add hlsflv.swf to trusted file (Control Panel=>FlashPlayer=>Advanced=>Trusted Location Settings), and then open hlsflv in chrome. Test on chrome only for now.
+
+Website for docs are being building, release week later.
+
+The library is release under GPLv2 for non-commencial usage, for commencial usage, please write to me.
  
  minimalcomps is used to make the test ui work, license is paste below.
 ================================================

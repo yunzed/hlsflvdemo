@@ -1,0 +1,1 @@
+For commencial usage, please write to me for details.
